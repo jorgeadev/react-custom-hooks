@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 
-function UseMemoComponent() {
+function UseMemoHook() {
 	// State for our counter
 	const [count, setCount] = useState(0);
 
@@ -50,4 +50,4 @@ function UseMemoComponent() {
 	);
 }
 
-export default UseMemoComponent;
+export default UseMemoHook;

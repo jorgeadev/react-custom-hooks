@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
-import UseMemoComponent from "./components/UseMemoComponent";
+import UseMemoHook from "./components/useMemoHook";
 
 function App() {
 	return (
 		<div className="App">
 			<h1>Customs Hooks</h1>
-			<UseMemoComponent />
+			<UseMemoHook />
 		</div>
 	);
 }
