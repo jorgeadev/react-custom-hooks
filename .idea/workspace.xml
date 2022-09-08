@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab750929-eafa-4808-980e-026943c87f98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/UseCoin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useCoin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hooks/useDocumentTitle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/useMemoHook.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hooks/useMemoHook.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs.jest.jest_package": "/Users/jorge.alberto/react-custom-hooks/node_modules/react-scripts",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editing.templates",
     "vue.rearranger.settings.migration": "true"
@@ -52,6 +54,23 @@
       <recent name="$PROJECT_DIR$/src/hooks" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="App.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/App.test.js" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.App.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662514667266</updated>
       <workItem from="1662514669110" duration="7017000" />
-      <workItem from="1662648260096" duration="4009000" />
+      <workItem from="1662648260096" duration="4379000" />
+      <workItem from="1662664783306" duration="2526000" />
     </task>
     <servers />
   </component>
