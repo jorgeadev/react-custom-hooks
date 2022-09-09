@@ -129,3 +129,6 @@ yarn-error.log*
 # ignore ssh keys
 jorgeadev
 jorgeadev.pub
+
+# ignore .idea
+.idea
